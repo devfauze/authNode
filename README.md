@@ -1,16 +1,16 @@
-##Autenticação com token em JWT
+Autenticação com token em JWT
 
-##Feito com:
-  -Javascript
-  -Node
-  -Express
-  -Mongoose
-  -Bcrypt
-  -JWT
+Feito com:
+-Javascript
+-Node
+-Express
+-Mongoose
+-Bcrypt
+-JWT
 
-##Testado no Insomnia
+Testado no Insomnia
 
-##Imagens teste:
+Imagens teste:
 
 [✅]Rota pública: 
 ![image](https://github.com/devfauze/authNode/assets/97612275/837a7c32-6920-4b90-8ffa-c4b9c7dee57b)
